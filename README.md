@@ -16,7 +16,7 @@ Installation & Usage
 
 ```toml
 [dependencies]
-rust-cgi = "0.6"
+rust-cgi = "0.7.1"
 ```
 
 Use the `cgi_main!` macro, with a function that takes a `rust_cgi::Request` and returns a

@@ -6,7 +6,7 @@
 //!
 //! ```cargo,ignore
 //! [dependencies]
-//! rust_cgi = "0.3"
+//! rust-cgi = "0.7.1"
 //! ```
 //!
 //!
